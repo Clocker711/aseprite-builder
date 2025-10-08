@@ -1,3 +1,5 @@
+#文件安装包在release里边自取
+
 # aseprite-builder
 Build Aseprite using Github action
 
